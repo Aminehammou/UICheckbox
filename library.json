@@ -12,7 +12,7 @@
   "authors": [],
   "license": "MIT",
   "dependencies": {
-    "UITextComponent": "*",
+    "UITextComponent": "https://github.com/Aminehammou/UITextComponent.git",
     "bodmer/TFT_eSPI": "*"
   }
 }
