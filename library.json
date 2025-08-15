@@ -1,0 +1,18 @@
+{
+  "name": "UICheckbox",
+  "version": "1.0.0",
+  "description": "Composant d'interface utilisateur de type case à cocher (checkbox) avec un label.",
+  "keywords": [
+    "ui",
+    "component",
+    "checkbox",
+    "input",
+    "toggle"
+  ],
+  "authors": [],
+  "license": "MIT",
+  "dependencies": {
+    "UITextComponent": "*",
+    "bodmer/TFT_eSPI": "*"
+  }
+}
